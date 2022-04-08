@@ -1,0 +1,10 @@
+//lista de variables 
+b = length 
+h = width
+area = //va a ser la base por la altura 
+solicitar al usuario que introduzca el valor de length y guardarlo en la variable b
+solicitar al usuario que introduzca el valor de width y guardarlo en la variable a
+calcular el area multiplicando el valor de b por a (area = b*a)
+si el valor de b es igual al valor de a entonces 
+  desplegar mensaje que la figura es un cuadrado 
+mostrar al usuario el valor del area 

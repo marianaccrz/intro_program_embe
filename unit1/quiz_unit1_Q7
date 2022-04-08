@@ -1,0 +1,10 @@
+pedir x y z
+mayor = x
+si y > mayor 
+  mayor = x 
+si z > mayor
+  mayor = z
+si (x = y) & (y = z) entonces
+  mostrar "todas son iguales"
+sino 
+  "mostrar en mayor es "mayor"
